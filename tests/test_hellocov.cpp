@@ -11,4 +11,5 @@ TEST(ATest, Test)
     multiply_by_two(7);
     divide_by_two(-7);
     is_power_of_two(-8);
+    is_power_of_two(-9);
 }
